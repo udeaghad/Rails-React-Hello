@@ -23,6 +23,7 @@ To get a local copy up and running follow these simple example steps.
 ### Usage and Installation
 - Navigate to the directory `cd Hello-world-rail-react` (case sensitive, make sure you type the correct path)
 - Run `bundle install` in your terminal (in case you need to update gems run `bundle update`)
+- Run `yarn install` in your terminal 
 - To setup database run the following commands:
   - `rails db:create`
   - `rails db:migrate`
